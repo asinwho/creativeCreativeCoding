@@ -1,1 +1,1 @@
-smol vvvv projects
+smol lazy projects

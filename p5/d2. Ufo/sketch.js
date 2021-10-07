@@ -16,7 +16,7 @@ let shY=2;
 let count =0;
 
 function preload() {
-  img1 = loadImage('dog.png');
+  img1 = loadImage('doge.png');
   //random star png
   //img2=loadImage('star.png');
  img2=loadImage('https://static.vecteezy.com/system/resources/previews/001/189/136/non_2x/christmas-decoration-star-png.png');
